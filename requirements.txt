@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pypdf
+openai
+faiss-cpu
+python-dotenv
+aiofiles
